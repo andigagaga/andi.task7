@@ -60,7 +60,7 @@ nav ul li .actives {;
 .container {
     display: flex;
     justify-content: center;
-    margin-top: 10px 20px;
+    margin-top: 50px;
 
     align-items: center;
 }
